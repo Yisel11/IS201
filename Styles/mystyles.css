@@ -1,0 +1,51 @@
+/* Yisel Meza 12/4/21 */
+.cen1{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.igg{
+    background-image: url("../images/OIP\ \(3\).jpg");
+    background-size: 500px;
+    text-align: center;
+    font-family: unset;
+    border:5px double;
+    border-color: brown;
+}
+
+.cente{
+    text-align: center;
+    color: black;
+
+}
+
+.border1 {
+    border: 2px solid brown;
+    background-color: coral;
+}
+
+
+.copy{
+    color: black;
+}
+
+.picborder{
+    border:5px brown;
+    border-style: double;
+}
+
+.linkstyles{
+    font:italic;
+    border: 2px solid black;
+    background-color: white;
+}
+}
+
+.navcent{
+    text-align: left;
+}
+
+.padpar{
+    padding:10px; 
+}
